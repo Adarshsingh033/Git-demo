@@ -1,4 +1,4 @@
 # Git-demo
 this is my first  Git Repository
 <br>
-Author - "adarsrh singh
+Author - "adarsrh Arun singh
